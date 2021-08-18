@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="50" viewBox="0 0 78 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1b1b1b;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Prancheta_1" data-name="Prancheta 1">
+    <path id="Retângulo_Arredondado_2" data-name="Retângulo Arredondado 2" class="cls-1" d="M44.511,0.014H72.489a5.5,5.5,0,1,1,0,11H44.511A5.5,5.5,0,1,1,44.511.014Z"/>
+    <path id="Retângulo_Arredondado_2-2" data-name="Retângulo Arredondado 2" class="cls-1" d="M5.511,39.014H33.489a5.5,5.5,0,1,1,0,11H5.511A5.5,5.5,0,0,1,5.511,39.014Z"/>
+    <path id="Retângulo_Arredondado_2-3" data-name="Retângulo Arredondado 2" class="cls-1" d="M5.522,20.014H72.478a5.5,5.5,0,0,1,0,11H5.522A5.5,5.5,0,0,1,5.522,20.014Z"/>
+  </g>
+</svg>

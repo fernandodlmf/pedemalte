@@ -1,0 +1,8 @@
+{
+  "appId": "br.com.pedemalte.app",
+  "appName": "Pede Malte",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "server": {}
+}

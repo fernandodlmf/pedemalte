@@ -1,0 +1,76 @@
+    .border-blue {
+        border: 2px;
+        border-color: blue;
+        border-style: solid;
+    }
+
+    .border-pink {
+        border: 2px;
+        border-color: pink;
+        border-style: solid;
+    }
+
+    .border-black {
+        border: 2px;
+        border-color: black;
+        border-style: solid;
+    }
+
+    .border-red {
+        border: 2px;
+        border-color: red;
+        border-style: solid;
+    }
+
+    .border-green {
+        border: 2px;
+        border-color: green;
+        border-style: solid;
+    }
+
+    .border-orange {
+        border: 2px;
+        border-color: orange;
+        border-style: solid;
+    }
+
+    .border-purple {
+        border: 2px;
+        border-color: purple;
+        border-style: solid;
+    }
+    
+    
+    
+    
+    .round {
+        border-radius: 30px;
+    }
+
+    .box-blue {
+        position: absolute;
+        width: 80%;
+        height: 100px;
+        background: red;
+    }
+
+    .box-black {
+        background: black;
+        margin-top: 10px;
+    }
+
+    .box-pink {
+        width: 100%;
+        padding: 16px;
+        height: 100px;
+        background: pink;
+        margin-top: 50px;
+    }
+
+    .box-green {
+        width: 100%;
+        padding: 16px;
+        height: 100px;
+        background: green;
+        margin-top: 50px;
+    }
